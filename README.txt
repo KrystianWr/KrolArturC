@@ -17,11 +17,15 @@ pokonanie Czarnego Rycerza (w godzinach). W kolejnych n liniach pojawią się op
 typ m c1 d1 ... cm dm
 
 gdzie:
-typ opisuje i-tą osadę: 0 oznacza zwyczajną osadę, 1 sprzedawcę krzaków, 2 obozowisko Czarnego Rycerza, 3 postój Rycerzy Mówiących Ni,
-4 oznacza zamek króla Artura (skąd wyrusza na swoją misję) zaś 5 oznacza miejsce, w którym ukryty jest Święty Graal,
-m opisuje liczbę dróg wychodzących z i-tej osady,
-ci opisuje cel i-tej drogi (numer osady, do której prowadzi),
-di opisuje długość i-tej drogi (w godzinach).
+typ 
+  opisuje i-tą osadę: 0 oznacza zwyczajną osadę, 1 sprzedawcę krzaków, 2 obozowisko Czarnego Rycerza, 3 postój Rycerzy Mówiących Ni,
+  4 oznacza zamek króla Artura (skąd wyrusza na swoją misję) zaś 5 oznacza miejsce, w którym ukryty jest Święty Graal,
+m 
+  opisuje liczbę dróg wychodzących z i-tej osady,
+ci 
+  opisuje cel i-tej drogi (numer osady, do której prowadzi),
+di 
+  opisuje długość i-tej drogi (w godzinach).
 
 Wyjście
 
